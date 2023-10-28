@@ -1,0 +1,16 @@
+{
+  "name": "terrestrial-trappist",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^3.4.0",
+    "canvas-confetti": "^1.9.0"
+  }
+}
